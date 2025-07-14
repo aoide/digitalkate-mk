@@ -1,0 +1,104 @@
+/*
+    Material Color Setup
+*/
+:root {
+    // Primary color shades
+    --md-primary-fg-color: #15517b;
+    --md-primary-fg-color--light: #2283c7;
+    --md-primary-fg-color--dark: #081F2f;
+    --md-primary-bg-color: #f4f4f6;
+    --md-primary-bg-color--light: #fcfcfd;
+
+    // Accent color shades
+    --md-accent-fg-color: #393f4c;
+    --md-accent-fg-color--transparent: #f4f4f6;
+    --md-accent-bg-color: #24272f;
+    --md-accent-bg-color--light: #f4f4f6;
+}
+
+/*
+    Material - Admonition Adjustments
+*/
+.admonition {
+    p {
+        &:not(.admonition-title) {
+            font-size: 1.1em;
+        }
+    }
+}
+
+/*
+    Material - Header Adjustments
+*/
+.md-header {
+    .md-header__title {
+        margin-left: .6rem;
+    }
+
+    .md-logo {
+        display: none;
+    }
+}
+
+/*
+    Material - Navigation Adjustments
+*/
+.md-nav__link {
+    border-left: 3px solid transparent;
+    padding-left: 3px;
+
+    &.md-nav__link--active,
+    &[for]:focus,
+    &[for]:hover,
+    &[href]:focus,
+    &[href]:hover {
+        color: var(--md-typeset-a-color);
+        border-color: var(--md-typeset-a-color);
+    }
+}
+
+/*
+    Material - Text Adjustments
+*/
+.md-typeset {
+    p {
+        font-size: .9em;
+    }
+}
+
+/*
+    Material - Grid Adjustments
+*/
+.grid + h1 {
+    margin-top: 1.5em;
+}
+
+.grid li p:last-child {
+    margin-top: 2em;
+}
+
+
+/*
+    Chips for Home
+*/
+.chip-feature {
+    display: inline-block;
+    background: var(--md-accent-fg-color);
+    color: white;
+    padding: 0 16px;
+    border-radius: 20px;
+    font-size: .8em;
+    font-weight: normal;
+
+    &.design {
+        background: darkgreen;
+    }
+
+    &.dev {
+        background: darkblue;
+    }
+
+    &.warning {
+        background: darkred;
+    }
+}

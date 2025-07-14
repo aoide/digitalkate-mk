@@ -1,0 +1,14 @@
+### General ###
+.DS_Store
+*.css.map
+*.sass.map
+*.scss.map
+
+### VSCode ###
+.vscode/
+
+### Vale ###
+.vale/
+
+### Markdown ###
+site/
