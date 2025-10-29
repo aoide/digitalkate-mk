@@ -43,7 +43,7 @@ glightbox: false
 
     **Enterprise**{.chip-feature .project} **Angular**{.chip-feature .dev} **Figma**{.chip-feature .design} **Tech Writing**{.chip-feature .design} 
 
-    [View the website :octicons-arrow-right-24:](https://theuki.com/workforce-applications-dod8140)
+    [View the website :octicons-arrow-right-24:](https://theuki.com/workforce-applications-dod8140){target="_blank"}
 
 -   ![Social Media Environment and Internet Replication](./assets/images/smeir.jpg)
 
@@ -53,7 +53,7 @@ glightbox: false
 
     **Enterprise**{.chip-feature .project} **React**{.chip-feature .dev} **Figma**{.chip-feature .design}
 
-    [View the website :octicons-arrow-right-24:](https://www.smeir.net/)
+    [View the website :octicons-arrow-right-24:](https://www.smeir.net/){target="_blank"}
 
 -   ![S1000D Publishing Software](./assets/images/s1000d.png)
 
@@ -63,6 +63,6 @@ glightbox: false
 
     **Enterprise**{.chip-feature .project} **Angular**{.chip-feature .dev} **Adobe**{.chip-feature .design} **Design System**{.chip-feature .design} 
 
-    [View the website :octicons-arrow-right-24:](https://services.boeing.com/maintenance-engineering/technical-data-services/technical-data-software-spectrum)
+    [View the website :octicons-arrow-right-24:](https://services.boeing.com/maintenance-engineering/technical-data-services/technical-data-software-spectrum){target="_blank"}
 
 </div>
