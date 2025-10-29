@@ -1,6 +1,7 @@
 /*
     Material Color Setup
 */
+
 :root {
     // Primary color shades
     --md-primary-fg-color: #15517b;
@@ -19,6 +20,7 @@
 /*
     Material - Admonition Adjustments
 */
+
 .admonition {
     p {
         &:not(.admonition-title) {
@@ -30,6 +32,7 @@
 /*
     Material - Header Adjustments
 */
+
 .md-header {
     .md-header__title {
         margin-left: .6rem;
@@ -43,6 +46,7 @@
 /*
     Material - Navigation Adjustments
 */
+
 .md-nav__link {
     border-left: 3px solid transparent;
     padding-left: 3px;
@@ -58,37 +62,45 @@
 }
 
 /*
-    Material - Text Adjustments
+    Material - Grid Adjustments
 */
-.md-typeset {
-    p {
-        font-size: .9em;
+
+.grid {
+    strong {
+        font-size: 1.5em;
+    }
+
+    a {
+        font-size: 1.2em;
+    }
+
+    li p:last-child {
+        margin-top: 2em;
+    }
+
+    img:first-of-type {
+        max-height: 400px;
     }
 }
 
-/*
-    Material - Grid Adjustments
-*/
-.grid + h1 {
-    margin-top: 1.5em;
+.featured li:first-of-type img {
+    width: 100%;
+    object-fit: cover;
 }
-
-.grid li p:last-child {
-    margin-top: 2em;
-}
-
 
 /*
     Chips for Home
 */
+
 .chip-feature {
     display: inline-block;
     background: var(--md-accent-fg-color);
     color: white;
-    padding: 0 16px;
+    padding: 2px 16px;
     border-radius: 20px;
-    font-size: .8em;
     font-weight: normal;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
 
     &.design {
         background: darkgreen;
@@ -100,5 +112,25 @@
 
     &.warning {
         background: darkred;
+    }
+}
+
+strong.chip-feature {
+    font-size: .9em;
+}
+
+/*
+    Kudos Blockquotes
+*/
+
+.md-typeset blockquote {
+    margin: 2em 0 0 0;
+
+    p {
+        margin: 0;
+    }
+
+    + p {
+        margin: .5em 0 0 16px;
     }
 }

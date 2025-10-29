@@ -16,7 +16,7 @@ Web Application: [North Carolina's Division of Employment Security](https://fed.
 
 !!! note
 
-    The website has undergone a redesign since these screenshots were taken and are not longer accurate of the live site.
+    The website has undergone a redesign since these screenshots were taken and are no longer accurate of the live site.
 
 [View full analysis image set](./analysis.md)
 
@@ -26,13 +26,6 @@ Web Application: [North Carolina's Division of Employment Security](https://fed.
     ![Sign In screen](./_assets/analysis/screen-signin.png)  
     <figcaption>Sign In screen</figcaption>
   </figure>
-
-<!--
-- <figure markdown="span">
-    ![Sign In - Success screen](./_assets/analysis/screen-signin-success.png)  
-    <figcaption>Sign In - Success screen</figcaption>
-  </figure>
--->
 
 - <figure markdown="span">
     ![File Claim screen](./_assets/analysis/screen-file-claim.png)  

@@ -1,6 +1,6 @@
 # React UI
 
-A small design system of UI elements created in react.
+A small design system of UI elements created in react as a sample project for this portfolio.
 
 [View the Elements](http://projects.digitalkate.net/react-widgets){target="_blank"}
 
@@ -16,11 +16,6 @@ A small design system of UI elements created in react.
 - <figure markdown="span">
     ![Multiselect UI element with item hovered](./_assets/ui-multiselect.png)
     <figcaption>Multiselect UI element with item hovered</figcaption>
-  </figure>
-
-- <figure markdown="span">
-    ![Checkbox list UI element with item hovered](./_assets/ui-checkbox-list.png)
-    <figcaption>Checkbox list UI element with item hovered</figcaption>
   </figure>
 
 </div>

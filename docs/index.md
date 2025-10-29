@@ -7,7 +7,7 @@ glightbox: false
 
 # Featured Examples
 
-<div class="grid cards" markdown>
+<div class="grid cards featured" markdown>
 
 -   __NC Division Of Employment Security__
 
@@ -20,18 +20,6 @@ glightbox: false
     **Enterprise**{.chip-feature .project} **UX**{.chip-feature .design} **Axure**{.chip-feature .dev} **Site Rebuild**{.chip-feature .project} **Not Real**{.chip-feature .warning}
     
     [View more on this project :octicons-arrow-right-24:](./nc-des/index.md)
-
--   __S1000D Manager Reporting__
-
-    ---
-
-    ![S1000D Manager Reporting](./manager-reports/_assets/update/screen-create-report-details-pm.png)
-
-    Updated S1000D Manager's reporting system to allow for custom reports, reducing report turn around time and adding flexibility.
-
-    **Enterprise**{.chip-feature .project} **UX**{.chip-feature .design} **Angular**{.chip-feature .dev}
-
-    [View more on this project :octicons-arrow-right-24:](./manager-reports/index.md)
 
 -   __React UI__
 
@@ -49,13 +37,13 @@ glightbox: false
 
 # Real World Projects
 
-<div class="grid cards" markdown>
+<div class="grid cards real-world" markdown>
 
 -   __OpenDash360__
 
     ---
 
-    ![OpenDash360](./_assets/images/od360.png)
+    ![OpenDash360](./assets/images/od360.png)
 
     On demand and in person cyber-training using virtual machines and integrated training partners.
 
@@ -67,7 +55,7 @@ glightbox: false
 
     ---
 
-    ![Social Media Environment and Internet Replication](./_assets/images/smeir.jpg)
+    ![Social Media Environment and Internet Replication](./assets/images/smeir.jpg)
 
     Information warfare training in a simulated real world environment.
 
@@ -79,7 +67,7 @@ glightbox: false
 
     ---
 
-    ![S1000D Publishing Software](./_assets/images/s1000d.png)
+    ![S1000D Publishing Software](./assets/images/s1000d.png)
 
     Authoring and publishing of airline maintenance documentation. A project of Boeing Spectrum.
 
