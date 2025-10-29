@@ -7,25 +7,21 @@ glightbox: false
 
 # Featured Examples
 
-<div class="grid cards featured" markdown>
+<div class="cards featured" markdown>
 
--   __NC Division Of Employment Security__
+-   ![NC Division Of Employment Security](./nc-des/_assets/wireframes/claims.png)
 
-    ---
-
-    ![NC Division Of Employment Security](./nc-des/_assets/wireframes/claims.png)
-
+    ## NC Division Of Employment Security
+    
     Redesigned the North Carolina's Division of Employment Security unemployment application as a portfolio sample project.
 
     **Enterprise**{.chip-feature .project} **UX**{.chip-feature .design} **Axure**{.chip-feature .dev} **Site Rebuild**{.chip-feature .project} **Not Real**{.chip-feature .warning}
     
     [View more on this project :octicons-arrow-right-24:](./nc-des/index.md)
 
--   __React UI__
+-   ![React UI Design System](./react-ui/_assets/ui-checkbox-list.png)
 
-    ---
-
-    ![React UI Design System](./react-ui/_assets/ui-checkbox-list.png)
+    ## React UI
 
     Created a small scale design system of UI elements in React.
 
@@ -37,13 +33,11 @@ glightbox: false
 
 # Real World Projects
 
-<div class="grid cards real-world" markdown>
+<div class="cards real-world" markdown>
 
--   __OpenDash360__
+-   ![OpenDash360](./assets/images/od360.png)
 
-    ---
-
-    ![OpenDash360](./assets/images/od360.png)
+    ## OpenDash360
 
     On demand and in person cyber-training using virtual machines and integrated training partners.
 
@@ -51,11 +45,9 @@ glightbox: false
 
     [View the website :octicons-arrow-right-24:](https://theuki.com/workforce-applications-dod8140)
 
--   __Social Media Environment and Internet Replication__
+-   ![Social Media Environment and Internet Replication](./assets/images/smeir.jpg)
 
-    ---
-
-    ![Social Media Environment and Internet Replication](./assets/images/smeir.jpg)
+    ## Social Media Environment and Internet Replication
 
     Information warfare training in a simulated real world environment.
 
@@ -63,11 +55,9 @@ glightbox: false
 
     [View the website :octicons-arrow-right-24:](https://www.smeir.net/)
 
--   __S1000D Publishing Software__
+-   ![S1000D Publishing Software](./assets/images/s1000d.png)
 
-    ---
-
-    ![S1000D Publishing Software](./assets/images/s1000d.png)
+    ## S1000D Publishing Software
 
     Authoring and publishing of airline maintenance documentation. A project of Boeing Spectrum.
 
